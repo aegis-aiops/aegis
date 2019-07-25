@@ -2,7 +2,7 @@
 #-*- coding:utf-8 _*-
 """
 @author:wubinbin
-@file: Sm_ICMP.py
+@file: icmp.py
 @time: 2019/06/26/16:04
 """
 import sys, time, os, json,threading,pyping
